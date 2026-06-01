@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main() {
-    char arr[10];
+int main(void) {
+    char arr[11];
     int max_freq = 0;
     char max_char;
 
