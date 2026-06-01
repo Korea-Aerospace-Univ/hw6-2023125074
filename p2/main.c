@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(void) {
     int arr1[20], arr2[20], sum[20] = {};
     int n = 0;
 
